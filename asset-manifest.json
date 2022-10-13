@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sajjad-iq/room-home/static/css/main.8534b7f5.css",
-    "main.js": "/Sajjad-iq/room-home/static/js/main.bf7cfbc8.js",
+    "main.js": "/Sajjad-iq/room-home/static/js/main.f0748567.js",
     "static/media/desktop-image-hero-1.jpg": "/Sajjad-iq/room-home/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
     "static/media/desktop-image-hero-3.jpg": "/Sajjad-iq/room-home/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
     "static/media/desktop-image-hero-2.jpg": "/Sajjad-iq/room-home/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
@@ -11,10 +11,10 @@
     "static/media/icon-arrow.svg": "/Sajjad-iq/room-home/static/media/icon-arrow.84087786c5e572d7f27f2672642badd5.svg",
     "static/media/icon-hamburger.svg": "/Sajjad-iq/room-home/static/media/icon-hamburger.dc022bac537a273572af58dec556ed7e.svg",
     "main.8534b7f5.css.map": "/Sajjad-iq/room-home/static/css/main.8534b7f5.css.map",
-    "main.bf7cfbc8.js.map": "/Sajjad-iq/room-home/static/js/main.bf7cfbc8.js.map"
+    "main.f0748567.js.map": "/Sajjad-iq/room-home/static/js/main.f0748567.js.map"
   },
   "entrypoints": [
     "static/css/main.8534b7f5.css",
-    "static/js/main.bf7cfbc8.js"
+    "static/js/main.f0748567.js"
   ]
 }
